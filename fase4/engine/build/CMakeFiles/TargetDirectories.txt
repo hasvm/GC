@@ -1,0 +1,3 @@
+C:/Users/hasvm/Documents/GitHub/CG/fase4/engine/build/CMakeFiles/Engine.dir
+C:/Users/hasvm/Documents/GitHub/CG/fase4/engine/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hasvm/Documents/GitHub/CG/fase4/engine/build/CMakeFiles/ZERO_CHECK.dir
